@@ -1,0 +1,34 @@
+/* Write your code here. */
+.navbar-bg {
+  background-color: #9796f0;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: px;
+}
+.score-card {
+  display: flex;
+}
+.logo {
+  width: 45px;
+  height: 45px;
+  margin-top: 5px;
+}
+.top-score {
+  margin-left: 20px;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+.score {
+  font-weight: 600;
+  margin-right: 20px;
+  color: white;
+  font-size: 18px;
+}
+.emoji-heading {
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+}

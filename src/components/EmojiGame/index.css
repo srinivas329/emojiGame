@@ -1,0 +1,34 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  background-image: linear-gradient(
+    to bottom right,
+    #9796f0 0.1%,
+    #fbc7d4 150%
+  );
+  height: 100vh;
+}
+.bottom-card {
+  display: flex;
+  flex-direction: col;
+  align-items: center;
+  flex-wrap: wrap;
+  flex: 1;
+}
+.result-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.ul-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: auto;
+  padding: 0px;
+  width: 60%;
+}

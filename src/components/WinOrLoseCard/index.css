@@ -1,0 +1,43 @@
+/* Write your code here. */
+.btn-play-again {
+  background-color: #ffce27;
+  color: #3d3d3d;
+  border-width: 0px;
+  height: 40px;
+  font-weight: 600;
+  width: 80px;
+  border-radius: 10px;
+}
+.play-result-text {
+  color: white;
+  font-weight: 800;
+  font-size: 40px;
+}
+.best-score {
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+}
+.result-container {
+  display: flex;
+  background-color: #ffffff33;
+  background-size: cover;
+  border-color: #ffffff30;
+  border-style: solid;
+  border-width: 2px;
+  justify-content: space-between;
+  padding: 40px;
+  width: 800px;
+  border-radius: 20px;
+  text-align: center;
+}
+.result-img {
+  width: 350px;
+  height: 400px;
+  margin-left: auto;
+}
+.score-text {
+  color: #6a59ff;
+  font-size: 40px;
+  font-weight: bold;
+}
